@@ -1,6 +1,9 @@
 ## Project Post-API 
 - [Preview page](https://app.netlify.com/sites/post-api-vue3js/settings/general)
 
+## Project explained
+- project made in vue 3 js, consuming an API and modularizing its components
+
 ## Project Setup
 
 ```sh
